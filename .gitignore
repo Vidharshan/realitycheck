@@ -1,0 +1,18 @@
+# Python
+backend/venv/
+backend/__pycache__/
+*.pyc
+
+# Node
+frontend/node_modules/
+frontend/.next/
+
+# Environment Variables
+.env
+*.env
+
+# Android Build Artifacts
+app-debug.apk
+mobile_app/app/build/
+mobile_app/.gradle/
+mobile_app/local.properties
